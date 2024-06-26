@@ -1,0 +1,29 @@
+body{
+    width: auto;
+    background-color: #fff6d8;
+    background-image: url(imgens/cabecalhos_back.png);
+    background-repeat: repeat-y;
+    margin-left: 170px;
+    margin-right: 170px;
+}
+
+h2, h2{
+    color: #906718;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h3{
+    color: #fff6d8;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #906718;
+    padding: 10px 0;
+}
+p{
+    color: #000000;
+    font-family: Arial;
+    text-indent: 20px;
+    text-align: justify;
+}
+hr{
+    border-color: #906718;
+    border-style: dashed;   
+}
